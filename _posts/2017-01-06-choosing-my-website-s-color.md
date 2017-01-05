@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Choosing my website's color...
 ---
 ## Choosing a color theme is easy... right?!?
