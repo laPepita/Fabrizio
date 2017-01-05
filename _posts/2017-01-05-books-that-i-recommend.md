@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Books That I Reccomend
+title: Books That I Recommend
 layout: post
 
 comments: true
@@ -15,7 +15,7 @@ tags:
 
 
 
-## Books That I Reccomend
+## Books That I Recommend
 
 Steve Krug’s - Don’t Make Me Think
 
