@@ -3,17 +3,21 @@ layout: post
 title: First post!
 subtitle: Just kicking things off for my journey
 comments: true
-share-img: http://www.liveperson.com/sites/default/files/styles/blog_title/public/pictures/blog/1.jpg?itok=m60VQnPI
-bigimg: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXziEb2lrccd_l9VZ2QenpteVwbcDCkDH3GjOOOIXsMSwKL9gCBQ
-tags: [random, exciting-stuff]
-#image: /img/hello_world.jpeg
+share-img: >-
+  http://www.liveperson.com/sites/default/files/styles/blog_title/public/pictures/blog/1.jpg?itok=m60VQnPI
+bigimg: >-
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXziEb2lrccd_l9VZ2QenpteVwbcDCkDH3GjOOOIXsMSwKL9gCBQ
+tags:
+  - random
+  - exciting-stuff
+published: true
 ---
 
 # My First Post
 
 Hello!
 
-This is my first post.  I am excited to share my journey with everyone here.
+This is my first post.  I am excited to share my journey with everyone here.  To be honest, I am also using this to keep track of my skills etc.  I will be doing a lot of work and getting everything in order for my journey to San Fran! Yieeeew!
 
 
 ### Things I find make this useful:
