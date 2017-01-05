@@ -257,7 +257,8 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
+  /* background: #F5F5F5; */
+  background: linear-gradient( rgba(245, 245, 245,0.2), rgb(245, 245, 245));
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
