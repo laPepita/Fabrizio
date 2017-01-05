@@ -11,8 +11,11 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 >
 > _"I can't believe that you even chose this color"_
+
 > _"Are you kidding me?"_
+
 >_"That blue is Fugly...."_
+
 >_"I think we see colors differently"_
 >
 
