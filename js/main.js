@@ -133,18 +133,6 @@ var main = {
   }
 };
 
-        $(function() {
-            setTimeout(function() {
-                $('.fly-in-text').removeClass('hidden');
-            }, 500);
-            $('.fly-in-text').delay(1500).queue(function() {
-                $(this).addClass("hiddenAgain");
-            });
-            setTimeout(function() {
-                $('.site-wrapper').removeClass('hidden');
-                $('.hiddenAgain').remove();
-            }, 2000);
-        })();
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', main.init);
