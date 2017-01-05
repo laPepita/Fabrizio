@@ -1,8 +1,20 @@
 ---
 layout: post
-published: false
+published: true
 title: Books That I Reccomend
+layout: post
+
+comments: true
+share-img: >-
+  http://www.liveperson.com/sites/default/files/styles/blog_title/public/pictures/blog/1.jpg?itok=m60VQnPI
+bigimg: >-
+  http://www.simplytravel.co.za/gallerylive/Seychelles_Surfing_banner.jpg
+tags:
+  - Books
 ---
+
+
+
 ## Books That I Reccomend
 
 Steve Krug’s - Don’t Make Me Think
