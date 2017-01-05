@@ -98,8 +98,10 @@ img {
 
 .navbar-custom {
   background: #F5F5F5;
-  border-bottom: 1px solid #EAEAEA;
+  /*border-bottom: 1px solid #EAEAEA;*/
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-image: url(data:image/svg+xml,%3Csvg width='100' height='20' viewBox='0 0 100 20' xmln…v2z' fill='%23ffffff' fill-opacity='0.5' fill-rule='evenodd'/%3E%3C/svg%3E);
+  border-bottom: 1px solid black;
 }
 
 .navbar-custom .nav li a {
@@ -259,7 +261,7 @@ footer {
   padding: 30px 0;
   /* background: #F5F5F5; */
   background: linear-gradient( rgba(245, 245, 245,0.2), rgb(245, 245, 245));
-  border-top: 1px #EAEAEA solid;
+  border-top: 1px #404040 solid;
   margin-top: 50px;
   font-size: 14px;
 }
