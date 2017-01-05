@@ -7,7 +7,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: linear-gradient(200deg, #ffded1 0%,#ffded1 50%,#ffc5af 50%,#ffc5af 100%);
+  background: linear-gradient(870deg, rgba(0, 248, 202, 0.42) 0%,#edf1f5 50%,#edf1f5 50%,#31708f 100%);
 }
 p {
   line-height: 1.5;
@@ -97,7 +97,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #ffc5af;
+  background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
