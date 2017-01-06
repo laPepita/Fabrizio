@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Fabrizio
-subtitle: A brief insight in to myself, my thoughts and my hobbies
+title: Blog
+subtitle: A discussion about my learning and opinions
 ---
-
 
 
 <div class="posts-list">
