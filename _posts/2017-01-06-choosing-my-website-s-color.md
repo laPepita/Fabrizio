@@ -28,3 +28,9 @@ This helped me decide on the color blue..
 >	_"There is wide agreement in the research community on the psychological effects of the color blue. Its subtle message of trustworthiness and serenity is true."_
 
 Now to find some nice shades of blue that you can see and read black on easily.
+
+
+### Nice fading background
+I used CSS3 animations to make that happen.
+I faded out the transparent levels of the RGBA pink to a white and ended on white.
+It was a little annoying having to put so many frames in otherwise it would come out way too jumpy.
